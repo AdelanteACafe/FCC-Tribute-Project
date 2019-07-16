@@ -1,0 +1,20 @@
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+  text-align: center;
+}
+/*so my problem (was the text align must be centered, not on auto.  Fooling around seems to indicate*/
+/*anything else can be set to auto but text align MUST BE centered, that threw me off....or im tired*/
+
+
+html,body {
+	text-align: center;
+color: #856b49;
+}
+
+
+background {
+	#856b49;
+}
